@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Orlando / Website"
 title_separator          : "-"
-name                     : &name "Orlando Olaya
+name                     : &name "Orlando Olaya"
 description              : &description "personal description"
 url                      : https://gommora.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
